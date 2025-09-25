@@ -1,0 +1,6 @@
+ytmusicapi
+athenacolor
+yt-dlp
+ffmpeg-python
+mutagen
+sanitize-filename
